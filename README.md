@@ -3,6 +3,7 @@ The world's worst keyboard! Push buttons and hold lights to the camera in order 
 
 Created for Hack Club Blueprint Build Guild Boston, inspired by a joke from my Spanish class
 
+Name inspired by W.W.B (World's Worst Board Game)
 ## Stuff you need to make this
 
 ### Hardware
